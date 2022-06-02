@@ -1,0 +1,14 @@
+.display2 {
+    font-size: 45px;
+    line-height: 50px;
+    font-weight: 700;
+    color: #1a1b1f;
+    text-align: center;
+}
+
+@media screen and (max-width: 540px) {
+    .display2 {
+        font-size: 25px;
+        line-height: 120%;
+    }
+}
